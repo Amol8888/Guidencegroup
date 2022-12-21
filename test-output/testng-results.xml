@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81915" started-at="2022-12-14T22:41:11 IST" finished-at="2022-12-14T22:42:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81915" started-at="2022-12-14T22:41:11 IST" finished-at="2022-12-14T22:42:33 IST">
+      <class name="GG.HomePageTests.HomePage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:GG.HomePageTests.HomePage@4ae82894]" name="setup" is-config="true" duration-ms="34408" started-at="2022-12-14T22:41:11 IST" finished-at="2022-12-14T22:41:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTitleOfHomePage()[pri:0, instance:GG.HomePageTests.HomePage@4ae82894]" name="VerifyTitleOfHomePage" duration-ms="5804" started-at="2022-12-14T22:41:45 IST" finished-at="2022-12-14T22:41:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitleOfHomePage -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:GG.HomePageTests.HomePage@4ae82894]" name="setup" is-config="true" duration-ms="16791" started-at="2022-12-14T22:41:51 IST" finished-at="2022-12-14T22:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="courseList()[pri:0, instance:GG.HomePageTests.HomePage@4ae82894]" name="courseList" duration-ms="306" started-at="2022-12-14T22:42:08 IST" finished-at="2022-12-14T22:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseList -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:GG.HomePageTests.HomePage@4ae82894]" name="setup" is-config="true" duration-ms="21404" started-at="2022-12-14T22:42:08 IST" finished-at="2022-12-14T22:42:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyListOfOptionsonHomePage()[pri:0, instance:GG.HomePageTests.HomePage@4ae82894]" name="verifyListOfOptionsonHomePage" duration-ms="3116" started-at="2022-12-14T22:42:30 IST" finished-at="2022-12-14T22:42:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyListOfOptionsonHomePage -->
+      </class> <!-- GG.HomePageTests.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
